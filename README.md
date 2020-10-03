@@ -1,2 +1,5 @@
 # hello-world
-A repository
+A repository 
+first commit to do
+
+teq sa poludeli...ne moe si tolkova izchatkal
